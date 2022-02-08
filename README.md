@@ -1,6 +1,6 @@
 # Project Name
 ## Bike Sharing Assignment
-####This assignment is a programming assignment wherein I have built a multiple linear regression model for the prediction of demand for shared bikes.
+#### This assignment is a programming assignment wherein I have built a multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
